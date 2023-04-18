@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### 👨‍💻 About me
 
-My name is Roman Zandler, Java-developer.
+My name is Roman Zandler, Java-developer based in Haifa, Israel.
 
 I am amazed by the ability to create entire worlds within a program using a limited set of commands, particularly in languages built on the OOP paradigm, such as Java. I strive to apply my knowledge in practice and make a positive impact on the world.✨
 
