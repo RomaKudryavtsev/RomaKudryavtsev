@@ -23,7 +23,7 @@ In my free time, I enjoy solving problems on codewars.com and exploring new libr
 
 [![Profile badge](https://www.codewars.com/users/rmnzndlr/badges/large)](https://www.codewars.com/users/rmnzndlr)
 
-### 💻: My key technical skills
+### 💻 My key technical skills
 
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
