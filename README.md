@@ -22,3 +22,5 @@ In my pinned repositories, you can find projects that I have either created or c
 In my free time, I enjoy solving problems on codewars.com and exploring new libraries (Chronicle, Disruptor, Sphinx 4) and technologies (IoT, AI, Java Concurrency).
 
 [![Profile badge](https://www.codewars.com/users/rmnzndlr/badges/large)](https://www.codewars.com/users/rmnzndlr)
+
+### :fire: My Stats :
