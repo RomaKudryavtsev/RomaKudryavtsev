@@ -36,7 +36,7 @@ In my free time, I enjoy solving problems on codewars.com and exploring new libr
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-### ⏱️ My Stats
+### ⏱️ My stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RomaKudryavtsev&theme=dark&background=000000)](https://git.io/streak-stats)
 
