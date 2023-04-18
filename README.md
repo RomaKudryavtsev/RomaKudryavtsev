@@ -1,3 +1,4 @@
+##Hi there! 🔭 My name is Roman Zandler, Java-developer.
 <!--
 **RomaKudryavtsev/RomaKudryavtsev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,8 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-####Hi there! 🔭 My name is Roman Zandler, Java-developer.
-
 I am amazed by the ability to create entire worlds within a program using a limited set of commands, particularly in languages built on the OOP paradigm, such as Java. I strive to apply my knowledge in practice and make a positive impact on the world.✨
 
 In my pinned repositories, you can find projects that I have either created or contributed to. The majority of them are Java REST services built with Spring Boot or Spring Framework.
