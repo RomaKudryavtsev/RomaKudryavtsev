@@ -1,4 +1,4 @@
-### Hi there! 🔭 
+# Hi there! 🔭 
 <!--
 **RomaKudryavtsev/RomaKudryavtsev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,6 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### 👨‍💻 About me
+
 My name is Roman Zandler, Java-developer.
 
 I am amazed by the ability to create entire worlds within a program using a limited set of commands, particularly in languages built on the OOP paradigm, such as Java. I strive to apply my knowledge in practice and make a positive impact on the world.✨
@@ -33,7 +36,7 @@ In my free time, I enjoy solving problems on codewars.com and exploring new libr
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 
-### :stopwatch: My Stats
+### ⏱️ My Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RomaKudryavtsev&theme=dark&background=000000)](https://git.io/streak-stats)
 
