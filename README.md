@@ -24,3 +24,5 @@ In my free time, I enjoy solving problems on codewars.com and exploring new libr
 [![Profile badge](https://www.codewars.com/users/rmnzndlr/badges/large)](https://www.codewars.com/users/rmnzndlr)
 
 ### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RomaKudryavtsev&theme=dark&background=000000)](https://git.io/streak-stats)
