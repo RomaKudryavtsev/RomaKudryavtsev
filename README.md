@@ -27,4 +27,4 @@ In my free time, I enjoy solving problems on codewars.com and exploring new libr
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RomaKudryavtsev&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RomaKudryavtsev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
