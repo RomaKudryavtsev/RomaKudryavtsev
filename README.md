@@ -1,4 +1,4 @@
-# Hi there! 🔭 
+### Hi there! 🔭 
 <!--
 **RomaKudryavtsev/RomaKudryavtsev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,9 +23,17 @@ In my free time, I enjoy solving problems on codewars.com and exploring new libr
 
 [![Profile badge](https://www.codewars.com/users/rmnzndlr/badges/large)](https://www.codewars.com/users/rmnzndlr)
 
-### :fire: My Stats
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RomaKudryavtsev&theme=dark&background=000000)](https://git.io/streak-stats)
+### :laptop: My key technical skills
 
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+
+### :stopwatch: My Stats
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RomaKudryavtsev&theme=dark&background=000000)](https://git.io/streak-stats)
 
