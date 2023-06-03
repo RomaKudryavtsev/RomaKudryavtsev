@@ -22,7 +22,7 @@ I am amazed by the ability to create entire worlds within a program using a limi
 
 In my pinned repositories, you can find projects that I have either created or contributed to. The majority of them are Java REST services built with Spring Boot or Spring Framework.
 
-In my free time, I enjoy solving problems on codewars.com and exploring new libraries (Chronicle, Disruptor, Sphinx 4) and technologies (IoT, AI, Java Concurrency).
+In my free time, I enjoy solving problems on codewars.com and exploring new libraries (Chronicle, Disruptor, Sphinx 4) and technologies (Reactive Programming, AI, Java Concurrency).
 
 [![Profile badge](https://www.codewars.com/users/rmnzndlr/badges/small)](https://www.codewars.com/users/rmnzndlr)
 
