@@ -16,9 +16,7 @@ Here are some ideas to get you started:
 
 ### 👨‍💻 About me
 
-My name is Roman Zandler, software developer based in Haifa, Israel.
-
-I am amazed by the ability to create entire worlds within a program using a limited set of commands, particularly in languages built on the OOP paradigm, such as Java and Dart. I strive to apply my knowledge in practice and make a positive impact on the world.✨
+My name is Roman Zandler, software developer based in Haifa, Israel. I strive to apply my knowledge in practice and make a positive impact on the world.✨
 
 In my pinned repositories, you can find projects that I have either created or contributed to. The majority of them are Java REST services built with Spring Boot or Spring Framework.
 
