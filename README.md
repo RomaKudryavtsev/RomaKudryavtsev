@@ -18,11 +18,13 @@ Here are some ideas to get you started:
 
 My name is Roman Zandler, software developer based in Haifa, Israel. I strive to apply my knowledge in practice and make a positive impact on the world.✨
 
-In my pinned repositories, you can find projects that I have either created or contributed to. The majority of them are Java REST services built with Spring Boot or Spring Framework.
+In my pinned repositories, you can find projects that I have either created or contributed to. The majority of them are Java REST services built with Spring Boot or Spring Framework. 
 
-In my free time, I enjoy solving problems on codewars.com and exploring new libraries (Chronicle, Disruptor, Sphinx 4) and technologies (Reactive Programming, LLM, Java Concurrency, Flutter).
+In my free time, I enjoy solving problems on codewars.com and exploring new libraries (Chronicle, Disruptor, Sphinx 4) and technologies (Reactive Programming, LLM, Java Concurrency, Flutter). You can learn more about me and the projects I'm involved in on my personal site: https://rmnzndlr.web.app
 
 [![Profile badge](https://www.codewars.com/users/rmnzndlr/badges/small)](https://www.codewars.com/users/rmnzndlr)
+
+For project inquiries or collaborations, feel free to reach out via https://lastochka.dev. Let's build something amazing together! 🚀
 
 ### 💻 My key technical skills
 
