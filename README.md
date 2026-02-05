@@ -52,6 +52,5 @@ For project inquiries or collaborations, feel free to reach out via https://last
 ![](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### ⏱️ My stats
-[![GitHub Streak](https://streak-stats.demolab.com/?user=RomaKudryavtsev&theme=monokai)](https://git.io/streak-stats)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=RomaKudryavtsev&theme=monokai)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-seven-self.vercel.app?user=RomaKudryavtsev&theme=monokai)](https://git.io/streak-stats)
 
