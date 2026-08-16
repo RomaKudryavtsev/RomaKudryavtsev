@@ -40,13 +40,9 @@ Architecting high-load B2B SaaS systems, real-time communication infrastructure,
 - **Real-Time Communications (RTC):** Self-hosted WebRTC SFU infrastructure (Mediasoup/NestJS), custom WebSocket connection-pooling engines for high-frequency market streaming, and RTMP multiplexing modules.
 - **Enterprise Integrations & Security:** OAuth2/SSO (Microsoft Entra ID/Graph API), omnichannel WhatsApp/Telegram bot multiplexing, state synchronization, and Docker containerization.
 
----
-
 ## ⏱️ GitHub Activity & Stats
 
 [![GitHub Streak](https://github-readme-streak-stats-seven-self.vercel.app?user=RomaKudryavtsev&theme=monokai)](https://git.io/streak-stats)
-
----
 
 ## 📬 Connect & Contacts
 
