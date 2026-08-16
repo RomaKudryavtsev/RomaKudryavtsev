@@ -5,9 +5,7 @@ Architecting high-load B2B SaaS systems, real-time communication infrastructure,
 
 [![Codewars Badge](https://www.codewars.com/users/rmnzndlr/badges/small)](https://www.codewars.com/users/rmnzndlr)
 
----
-
-### 💻 Primary Tech Stack
+## 💻 Primary Tech Stack
 
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -36,9 +34,7 @@ Architecting high-load B2B SaaS systems, real-time communication infrastructure,
 ![](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
----
-
-### 🛠️ Core Engineering Focus
+## 🛠️ Core Engineering Focus
 
 - **Multi-Tenant Architecture & SaaS:** End-to-end design of multi-tenant CRM/ERP platforms, dynamic routing engines, custom rule-based lead/chat distribution, and resilient webhooks.
 - **Real-Time Communications (RTC):** Self-hosted WebRTC SFU infrastructure (Mediasoup/NestJS), custom WebSocket connection-pooling engines for high-frequency market streaming, and RTMP multiplexing modules.
@@ -46,13 +42,13 @@ Architecting high-load B2B SaaS systems, real-time communication infrastructure,
 
 ---
 
-### ⏱️ GitHub Activity & Stats
+## ⏱️ GitHub Activity & Stats
 
 [![GitHub Streak](https://github-readme-streak-stats-seven-self.vercel.app?user=RomaKudryavtsev&theme=monokai)](https://git.io/streak-stats)
 
 ---
 
-### 📬 Connect & Contacts
+## 📬 Connect & Contacts
 
 - **Website / Consultancy:** [lastochka.dev](https://lastochka.dev)
 - **LinkedIn:** [linkedin.com/in/rmnzndlr](https://linkedin.com/in/rmnzndlr)
