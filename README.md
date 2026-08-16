@@ -1,30 +1,13 @@
-## Hi there! 🔭 
-<!--
-**RomaKudryavtsev/RomaKudryavtsev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Roman Zandler 📡
+**Senior Full-Stack Engineer & Technical Lead** based in Haifa, Israel.
 
-Here are some ideas to get you started:
+Architecting high-load B2B SaaS systems, real-time communication infrastructure, and distributed data processing platforms. Former Associate at White & Case, bringing a legal-grade focus to multi-tenant data isolation, RBAC, and security compliance.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Codewars Badge](https://www.codewars.com/users/rmnzndlr/badges/small)](https://www.codewars.com/users/rmnzndlr)
 
-### 👨‍💻 About me
+---
 
-My name is Roman Zandler, software developer based in Haifa, Israel. In my pinned repositories, you can find projects that I have either created or contributed to. </>
-
-In my free time, I enjoy solving problems on codewars.com and exploring new libraries (Chronicle, Disruptor, Sphinx 4, FastAPI) and technologies (Reactive Programming, LLM, Java Concurrency, Flutter). You can learn more about me and the projects I'm involved in on my personal site: https://rmnzndlr.web.app 📟
-
-[![Profile badge](https://www.codewars.com/users/rmnzndlr/badges/small)](https://www.codewars.com/users/rmnzndlr)
-
-For project inquiries or collaborations, feel free to reach out via https://lastochka.dev. Let's build something amazing together! 🚀
-
-### 💻 My key technical skills
+### 💻 Primary Tech Stack
 
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
@@ -53,6 +36,25 @@ For project inquiries or collaborations, feel free to reach out via https://last
 ![](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### ⏱️ My stats
+---
+
+### 🛠️ Core Engineering Focus
+
+- **Multi-Tenant Architecture & SaaS:** End-to-end design of multi-tenant CRM/ERP platforms, dynamic routing engines, custom rule-based lead/chat distribution, and resilient webhooks.
+- **Real-Time Communications (RTC):** Self-hosted WebRTC SFU infrastructure (Mediasoup/NestJS), custom WebSocket connection-pooling engines for high-frequency market streaming, and RTMP multiplexing modules.
+- **Enterprise Integrations & Security:** OAuth2/SSO (Microsoft Entra ID/Graph API), omnichannel WhatsApp/Telegram bot multiplexing, state synchronization, and Docker containerization.
+
+---
+
+### ⏱️ GitHub Activity & Stats
+
 [![GitHub Streak](https://github-readme-streak-stats-seven-self.vercel.app?user=RomaKudryavtsev&theme=monokai)](https://git.io/streak-stats)
 
+---
+
+### 📬 Connect & Contacts
+
+- **Website / Consultancy:** [lastochka.dev](https://lastochka.dev)
+- **LinkedIn:** [linkedin.com/in/rmnzndlr](https://linkedin.com/in/rmnzndlr)
+- **Telegram:** [@rmnzndlr](https://t.me/rmnzndlr)
+- **Email:** rmnzndlr@gmail.com
